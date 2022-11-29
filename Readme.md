@@ -12,8 +12,7 @@
 | DevOps | set of practices, tools, and a cultural philosophy that automate and integrate the processes between software development and IT teams |
 | Docker | open container platform for developing, shipping and running applications in containers |
 | Dockerfile | text document that contains all the commands you would normally execute manually in order to build a Docker image. Docker can build images automatically by reading the instructions from a Dockerfile |
-| Docker client | the primary way that many Docker users interact with Docker. When you use commands such as docker run, the client sends these commands to dockerd, which carries them out. The docker command uses the Docker API. The Docker client can communicate with more than one daemon.
-Docker Command Line Interface (CLI) The Docker client provides a command line interface (CLI) that allows you to issue build, run, and stop application commands to a Docker daemon |
+| Docker client | the primary way that many Docker users interact with Docker. When you use commands such as docker run, the client sends these commands to dockerd, which carries them out. The docker command uses the Docker API. The Docker client can communicate with more than one daemon |
 | Docker daemon (dockerd) | creates and manages Docker objects, such as images, containers, networks, and volumes |
 | Docker Hub | the world's easiest way to create, manage, and deliver your team's container applications |
 | Docker localhost |Docker provides a host network which lets containers share your host’s networking stack. This approach means that a localhost in a container resolves to the physical host, instead of the container itself |
