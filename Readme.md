@@ -1,6 +1,5 @@
 # definitions of several terms
 
-![definition](definitions.jpg)
 
 | Term | Definition |
 | :------- | ------------------: |
