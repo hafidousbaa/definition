@@ -39,3 +39,5 @@
 [fa=firefox extras=fa-2x /]
 [[fa=firefox extras=fa-3x /] OU-SBAA HAFID](https://www.mozilla.org/fr/firefox/new/)
 [fa=firefox extras=fa-4x,fa-spin /]
+
+<i class="fa fa-thumbs-o-up" aria-hidden="true"></i>
