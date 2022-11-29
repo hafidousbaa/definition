@@ -34,3 +34,9 @@
 | Server Virtualization | the process of dividing a physical server into multiple unique and isolated virtual servers by means of a software application. Each virtual server can run its own operating systems independently |
 | Serverless |  cloud-native development model that allows developers to build and run applications without having to manage servers |
 | Tag | A label applied to a Docker image in a repository. Tags are how various images in a repository are distinguished from each other |
+
+
+    [fa=firefox /]
+    [fa=firefox extras=fa-2x /]
+    [[fa=firefox extras=fa-3x /] OU-SBAA HAFID](https://www.mozilla.org/fr/firefox/new/)
+    [fa=firefox extras=fa-4x,fa-spin /]
