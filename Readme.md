@@ -1,5 +1,7 @@
 # definitions of several terms
 
+![definition](definitions.jpg)
+
 | Term | Definition |
 | :------- | ------------------: |
  | Agile | iterative approach to project management and software development that helps teams deliver value to their customers faster and with fewer issues|
