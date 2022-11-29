@@ -1,6 +1,6 @@
 # definitions of several terms
 
-| Term | Definition         |
+| [center] Term [/center] | [center] Definition     [/center]    |
 | :------- | ------------------: |
  | Agile | iterative approach to project management and software development that helps teams deliver value to their customers faster and with fewer issues|
 | Client-server architecture | distributed application structure that partitions tasks or workloads between the providers of a resource or service, called servers, and service requesters, called clients |
