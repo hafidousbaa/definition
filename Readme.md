@@ -35,8 +35,7 @@
 | Serverless |  cloud-native development model that allows developers to build and run applications without having to manage servers |
 | Tag | A label applied to a Docker image in a repository. Tags are how various images in a repository are distinguished from each other |
 
-
-    [fa=firefox /]
-    [fa=firefox extras=fa-2x /]
-    [[fa=firefox extras=fa-3x /] OU-SBAA HAFID](https://www.mozilla.org/fr/firefox/new/)
-    [fa=firefox extras=fa-4x,fa-spin /]
+[fa=firefox /]
+[fa=firefox extras=fa-2x /]
+[[fa=firefox extras=fa-3x /] OU-SBAA HAFID](https://www.mozilla.org/fr/firefox/new/)
+[fa=firefox extras=fa-4x,fa-spin /]
